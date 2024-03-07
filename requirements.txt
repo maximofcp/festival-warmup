@@ -1,0 +1,4 @@
+Django==4.2.10
+requests==2.31.0
+dacite==1.8.1
+python-dotenv==1.0.1

@@ -1,0 +1,6 @@
+class Unauthorized(Exception):
+    ...
+
+
+class APIError(Exception):
+    ...
